@@ -1,9 +1,9 @@
 ## ProductoLocal
 
-### Presentazón
+### Presentación
 
-ProductoLocal é o proxecto desenvolto no BootCamp FullStack de CampusDual entre os meses de setembro e novembro do 2022.
-Empregouse Java e Spring boot no Backend e Angular no Frontend. Partiuse do arquetipo springboot-angular-basic-skeleton.
+ProductoLocal es un proyecto desarrollado en el BootCamp FullStack de CampusDual entre los meses de septiembre e noviembre do 2022.
+SE empleó Java y el framework Spring Boot en el Backend y Angular en el Frontend. El punto de partida fue el arquetipo springboot-angular-basic-skeleton.
 
 
 # springboot-angular-basic-skeleton
